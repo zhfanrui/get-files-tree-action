@@ -2,7 +2,7 @@
 FROM alpine
 
 RUN apk update && apk upgrade && \
-    apk add --no-cache bash git openssh wget
+    apk add --no-cache git wget
 
 # Copies your code file from your action repository to the filesystem path `/` of the container
 COPY entrypoint.sh /entrypoint.sh
