@@ -11,4 +11,4 @@ jobs:
     steps:
     - uses: zhfanrui/get-files-action@master
       with:
-        accessToken: $GITHUB_TOEKN
+        accessToken: ${{ github.token }}
