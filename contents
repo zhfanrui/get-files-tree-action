@@ -1,0 +1,82 @@
+[
+  {
+    "name": ".github",
+    "path": ".github",
+    "sha": "beb10ef4674e2fbbda4d3e87d81567b938e7a808",
+    "size": 0,
+    "url": "https://api.github.com/repos/zhfanrui/get-files-tree-action/contents/.github?ref=master",
+    "html_url": "https://github.com/zhfanrui/get-files-tree-action/tree/master/.github",
+    "git_url": "https://api.github.com/repos/zhfanrui/get-files-tree-action/git/trees/beb10ef4674e2fbbda4d3e87d81567b938e7a808",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/zhfanrui/get-files-tree-action/contents/.github?ref=master",
+      "git": "https://api.github.com/repos/zhfanrui/get-files-tree-action/git/trees/beb10ef4674e2fbbda4d3e87d81567b938e7a808",
+      "html": "https://github.com/zhfanrui/get-files-tree-action/tree/master/.github"
+    }
+  },
+  {
+    "name": "Dockerfile",
+    "path": "Dockerfile",
+    "sha": "dfe8b4bf6190ec6ead6f696608dd6dc5a2c1dc36",
+    "size": 357,
+    "url": "https://api.github.com/repos/zhfanrui/get-files-tree-action/contents/Dockerfile?ref=master",
+    "html_url": "https://github.com/zhfanrui/get-files-tree-action/blob/master/Dockerfile",
+    "git_url": "https://api.github.com/repos/zhfanrui/get-files-tree-action/git/blobs/dfe8b4bf6190ec6ead6f696608dd6dc5a2c1dc36",
+    "download_url": "https://raw.githubusercontent.com/zhfanrui/get-files-tree-action/master/Dockerfile",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/zhfanrui/get-files-tree-action/contents/Dockerfile?ref=master",
+      "git": "https://api.github.com/repos/zhfanrui/get-files-tree-action/git/blobs/dfe8b4bf6190ec6ead6f696608dd6dc5a2c1dc36",
+      "html": "https://github.com/zhfanrui/get-files-tree-action/blob/master/Dockerfile"
+    }
+  },
+  {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "9d593d9f21751c4d69aa021bbf799967175ebbcb",
+    "size": 241,
+    "url": "https://api.github.com/repos/zhfanrui/get-files-tree-action/contents/README.md?ref=master",
+    "html_url": "https://github.com/zhfanrui/get-files-tree-action/blob/master/README.md",
+    "git_url": "https://api.github.com/repos/zhfanrui/get-files-tree-action/git/blobs/9d593d9f21751c4d69aa021bbf799967175ebbcb",
+    "download_url": "https://raw.githubusercontent.com/zhfanrui/get-files-tree-action/master/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/zhfanrui/get-files-tree-action/contents/README.md?ref=master",
+      "git": "https://api.github.com/repos/zhfanrui/get-files-tree-action/git/blobs/9d593d9f21751c4d69aa021bbf799967175ebbcb",
+      "html": "https://github.com/zhfanrui/get-files-tree-action/blob/master/README.md"
+    }
+  },
+  {
+    "name": "action.yml",
+    "path": "action.yml",
+    "sha": "c574b3459716e92d04be4a6de1b1c3ceb001bec8",
+    "size": 252,
+    "url": "https://api.github.com/repos/zhfanrui/get-files-tree-action/contents/action.yml?ref=master",
+    "html_url": "https://github.com/zhfanrui/get-files-tree-action/blob/master/action.yml",
+    "git_url": "https://api.github.com/repos/zhfanrui/get-files-tree-action/git/blobs/c574b3459716e92d04be4a6de1b1c3ceb001bec8",
+    "download_url": "https://raw.githubusercontent.com/zhfanrui/get-files-tree-action/master/action.yml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/zhfanrui/get-files-tree-action/contents/action.yml?ref=master",
+      "git": "https://api.github.com/repos/zhfanrui/get-files-tree-action/git/blobs/c574b3459716e92d04be4a6de1b1c3ceb001bec8",
+      "html": "https://github.com/zhfanrui/get-files-tree-action/blob/master/action.yml"
+    }
+  },
+  {
+    "name": "entrypoint.sh",
+    "path": "entrypoint.sh",
+    "sha": "f098bdeccee8efa104acf952533e7c8e2ace14aa",
+    "size": 446,
+    "url": "https://api.github.com/repos/zhfanrui/get-files-tree-action/contents/entrypoint.sh?ref=master",
+    "html_url": "https://github.com/zhfanrui/get-files-tree-action/blob/master/entrypoint.sh",
+    "git_url": "https://api.github.com/repos/zhfanrui/get-files-tree-action/git/blobs/f098bdeccee8efa104acf952533e7c8e2ace14aa",
+    "download_url": "https://raw.githubusercontent.com/zhfanrui/get-files-tree-action/master/entrypoint.sh",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/zhfanrui/get-files-tree-action/contents/entrypoint.sh?ref=master",
+      "git": "https://api.github.com/repos/zhfanrui/get-files-tree-action/git/blobs/f098bdeccee8efa104acf952533e7c8e2ace14aa",
+      "html": "https://github.com/zhfanrui/get-files-tree-action/blob/master/entrypoint.sh"
+    }
+  }
+]
