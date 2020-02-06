@@ -1,8 +1,8 @@
 # Container image that runs your code
 FROM alpine
 
-RUN apt-get update \
-    && apt-get install -y --no-install-recommends wget git
+RUN apk update && apk upgrade && \
+    apk add --no-cache bash git openssh wget
 
 # Copies your code file from your action repository to the filesystem path `/` of the container
 COPY entrypoint.sh /entrypoint.sh
