@@ -1,7 +1,8 @@
 # Container image that runs your code
-FROM ubuntu
+FROM alpine
 
-RUN apt-get install wget git
+RUN apt-get update \
+    && apt-get install -y --no-install-recommends wget git
 
 # Copies your code file from your action repository to the filesystem path `/` of the container
 COPY entrypoint.sh /entrypoint.sh
