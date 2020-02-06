@@ -1,6 +1,6 @@
 # action.yml
-name: 'Hello World'
-description: 'Greet someone and record the time'
+name: 'Get repo files tree'
+description: 'Get repo files tree'
 runs:
   using: 'docker'
   image: 'Dockerfile'
