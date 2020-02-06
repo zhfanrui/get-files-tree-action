@@ -10,4 +10,5 @@ git commit -m 'get tree'
 
 remote_repo="https://$GITHUB_ACTOR:$GITHUB_TOKEN@github.com/$GITHUB_REPOSITORY.git"
 echo $remote_repo
+echo "https://$GITHUB_ACTOR@github.com/$GITHUB_REPOSITORY.git"
 git push --force $remote_repo master:tree
